@@ -4,8 +4,8 @@ subtitle: Primeiros passos na música eletrónica
 layout: default
 modal-id: 1
 date: 2021-07-18
-img: push2_workshop-950x500.png
-thumbnail: push2_workshop-950x500.png
+img: jardins2021.png
+thumbnail: jardins2021.png
 alt: image-alt
 project-date: July 2021
 client: Jardins efemeros
