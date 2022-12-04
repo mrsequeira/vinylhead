@@ -3,11 +3,11 @@ title: Jardins Efémeros
 subtitle: Música sem fronteiras.
 layout: default
 modal-id: 1
-date: 2021-07-18
+date: 2022-07-16
 img: jardins2022.png
 thumbnail: jardins2022.png
 alt: image-alt
-project-date: July 2021
+project-date: July 2022
 client: Jardins efemeros
 category: teach
 description: Esta oficina tem como objectivo leccionar, de forma interativa e divertida, os factores relevantes no processo criativo de uma música. No início falaremos sobre a natureza do som, como o percepcionamos e o entendemos. Iremos compor ritmos e batidas, com o apoio da tecnologia - Computadores, caixa de ritmos, sampler, baterias, percussões, sintetizadores e teclados. Estas serão as nossas ferramentas para manipularmos e gravarmos sintetizadores e sons em tempo real. Official link, https://jardinsefemeros.pt/edicao-2022/en/eventos/musica-sem-fronteiras/
