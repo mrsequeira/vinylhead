@@ -6,7 +6,6 @@ title: TH'OVEN
 email: thoven.booking@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
-
 # Team names, titles and social links
 people:
 - name: Alexandre Sequeira
@@ -14,42 +13,12 @@ people:
   position: Music producer and DJ
 
 
-# - name: Digam o mesmo
-#   pic: 2
-#   position: Lead Marketer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: linkedin
-#       url: #
-
-# - name: Diana Petersen
-#   pic: 3
-#   position: Lead Developer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: google-plus
-#       url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  # - title: twitter
-  #   url: http://twitter.com/jekyllrb
   - title: facebook
     url: https://www.facebook.com/live.thoven/
   - title: instagram
     url: https://www.instagram.com/th.oven/
-  # - title: stack-overflow
-  #   url: http://stackoverflow.com/questions/tagged/jekyll
-  # - title: bitbucket 
-  #   url: http://bitbucket.org/jekyll
-  # - title: github
-  #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
