@@ -28,3 +28,7 @@ View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-th
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
+
+
+# next improvements:
+add repertorio like portfolio style, people click inside and then they can see the audio previews.
