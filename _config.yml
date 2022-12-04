@@ -8,17 +8,11 @@ description: "Write an awesome description for your new site here. You can edit 
 
 
 # Team names, titles and social links
-# people:
-# - name: Kay Garland
-#   pic: 1
-#   position: Lead Designer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: stack-overflow
-#       url: #
+people:
+- name: Alexandre Sequeira
+  pic: 1
+  position: Music producer and DJ
+
 
 # - name: Digam o mesmo
 #   pic: 2
