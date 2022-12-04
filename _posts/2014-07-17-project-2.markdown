@@ -10,6 +10,15 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Esta oficina musical tem como objetivo estabelecer um primeiro contacto com o mundo da música.
+Através de exemplos reais e exercícios auditivos, os alunos irão descobrir a origem do som, como nasce o ritmo, tipos de instrumentos que existem e como a tecnologia veio revolucionar a música. Pretende-se transmitir de forma leve e interativa o processo de criação musical e a facilidade com que se pode criar a mesma.
+
+A chave desta oficina centra-se na utilização de um instrumento pouco comum, Ableton Push 2. É um controlador com uma interface de simples utilização, e por ser bastante colorido cria uma grande conexão com a pessoa, o que permite uma aprendizagem inicial bastante acessível aos mais novos.
+
+No final da oficina, cada aluno irá criar uma música aplicando os conhecimentos obtidos ao longo da sessão.
+
+Esta oficina é uma ótima forma didática e lúdica de nos relacionarmos com a música.
+
+Official link, https://jardinsefemeros.pt/edicao-2021/pt/eventos/primeiros-passos-na-musica-eletronica-2/.
 
 ---
